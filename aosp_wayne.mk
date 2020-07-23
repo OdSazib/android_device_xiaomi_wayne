@@ -27,7 +27,7 @@ BUILD_TWRP := false
 WITH_SU := false
 
 #Build type
-CUSTOM_BUILD_TYPE=OFFICIAL
+CUSTOM_BUILD_TYPE=COMMUNITY
 
 # Inherit device configuration
 $(call inherit-product, device/xiaomi/wayne/device.mk)
